@@ -1,0 +1,5 @@
+Model,Lookback,MAPE_macro (%),MAPE_median (%),MAE_median,RMSE_median,Avg_Attempts,Format_Fail_Rate (%)
+microsoft/Phi-3.5-mini-instruct,1,12.14,8.67,0.2936,0.3132,0,0
+microsoft/Phi-3.5-mini-instruct,14,12.53,8.86,0.4026,0.4588,0,0
+microsoft/Phi-3.5-mini-instruct,21,11.45,8.68,0.2866,0.346,0,0
+microsoft/Phi-3.5-mini-instruct,28,12.3,9.49,1.2866,0.3595,0,0

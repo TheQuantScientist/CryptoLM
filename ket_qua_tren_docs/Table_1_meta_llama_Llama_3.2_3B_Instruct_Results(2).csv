@@ -1,0 +1,5 @@
+Model,Lookback,MAPE_macro (%),MAPE_median (%),MAE_median,RMSE_median,Avg_Attempts,Format_Fail_Rate (%)
+meta-llama/Llama-3.2-3B-Instruct,1,14.2,9.76,0.2944,0.314,0.1,0.0
+meta-llama/Llama-3.2-3B-Instruct,14,14.44,12.53,0.3688,0.4504,0.6,0.0
+meta-llama/Llama-3.2-3B-Instruct,21,15.54,11.8,0.4324,0.5055,0.4,0.0
+meta-llama/Llama-3.2-3B-Instruct,28,16.49,12.09,0.3722,0.3941,0.6,0.0

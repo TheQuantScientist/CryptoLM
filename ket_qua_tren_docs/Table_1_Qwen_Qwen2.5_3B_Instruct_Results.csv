@@ -1,0 +1,5 @@
+Model,Lookback,MAPE_macro (%),MAPE_median (%),MAE_median,RMSE_median,Avg_Attempts,Format_Fail_Rate (%)
+Qwen/Qwen2.5-3B-Instruct,1,15.46,9.03,0.3758,0.4185,0.0,0.0
+Qwen/Qwen2.5-3B-Instruct,14,12.84,11.17,0.3555,0.4199,0.4,0.0
+Qwen/Qwen2.5-3B-Instruct,21,14.18,11.61,0.3533,0.3993,0.2,0.0
+Qwen/Qwen2.5-3B-Instruct,28,15.99,12.24,0.5358,0.6107,0.3,0.0

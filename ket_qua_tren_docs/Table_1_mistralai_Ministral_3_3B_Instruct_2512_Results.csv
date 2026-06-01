@@ -1,0 +1,5 @@
+Model,Lookback,MAPE_macro (%),MAPE_median (%),MAE_median,RMSE_median,Avg_Attempts,Format_Fail_Rate (%)
+mistralai/Ministral-3-3B-Instruct-2512,1,36.48,29.69,1.5098,2.0695,2.1,0.0
+mistralai/Ministral-3-3B-Instruct-2512,14,29.79,16.26,1.1578,2.3568,2.0,0.0
+mistralai/Ministral-3-3B-Instruct-2512,21,24.16,16.67,0.8566,1.5621,2.0,0.0
+mistralai/Ministral-3-3B-Instruct-2512,28,32.96,15.88,0.702,1.8492,2.0,0.0

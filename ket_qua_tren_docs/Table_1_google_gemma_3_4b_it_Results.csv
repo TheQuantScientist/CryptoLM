@@ -1,0 +1,5 @@
+Model,Lookback,MAPE_macro (%),MAPE_median (%),MAE_median,RMSE_median,Avg_Attempts,Format_Fail_Rate (%)
+google/gemma-3-4b-it,1,137.9,52.51,2.7938,3.6764,1.7,0.0
+google/gemma-3-4b-it,14,11.91,10.16,0.3541,0.3856,1.1,0.0
+google/gemma-3-4b-it,21,26.55,10.11,0.4839,0.5054,1.8,0.0
+google/gemma-3-4b-it,28,16.41,11.32,0.536,0.5534,1.6,0.0
